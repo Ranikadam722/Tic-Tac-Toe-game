@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-game
-Tic-Tac-Toe game using HTML, CSS, JavaScript
+# Project Name
+Tic-Tac-Toe game 
